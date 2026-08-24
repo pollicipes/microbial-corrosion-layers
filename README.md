@@ -1,6 +1,5 @@
 # microbial-corrosion-layers
-Scripts used to analyze shotgun metagenome data from corrosion layers
-### All code in Bash or R.
+Scripts used to analyze shotgun metagenome data from corrosion layers (_All code in Bash or R._)
 
 Brief explanation:
 
