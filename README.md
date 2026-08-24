@@ -1,7 +1,13 @@
 # microbial-corrosion-layers
-Scripts used to analyze shotgun metagenome data from corrosion layers (_All code in Bash or R._)
+Scripts used to analyze shotgun metagenome data from corrosion layers related to the paper under review:
 
-Brief explanation:
+**Title:** "_Distinct microbial communities associated with corrosion layer transformation in reburied Archaeological iron in an anoxic peat environment_" 
+
+**Authors**: Frydendhal _et al_., 2026
+
+**Brief explanation of the code provided to analyse DNA data:**
+
+(_All code in Bash or R._)
 
 **Preprocessing data**; 
 
